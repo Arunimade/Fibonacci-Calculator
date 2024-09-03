@@ -5,8 +5,10 @@ The Fibonacci Calculator is designed to help users quickly compute the Fibonacci
 Features
 Simple and user-friendly interface.
 Takes a numeric input and calculates the Fibonacci number at that position.
+
 Real-time calculation and display of the result.
 Basic validation to ensure the input is a valid positive integer.
+
 Technologies Used
 HTML: To create the structure of the web page.
 CSS: To style the web page and make it visually appealing.
